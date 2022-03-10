@@ -30,9 +30,9 @@ namespace ConsoleApp.Practice1
             System.Console.WriteLine(name);
             x = "Akhil 1";
             System.Console.WriteLine(name);
-            y = "Akhil 4";
+            y = "Akhil 2";
             System.Console.WriteLine(name);
-            name = "gggggggggg";
+            name = "Akhil 3";
         }
     }
 }
