@@ -15,6 +15,11 @@ namespace ConsoleApp.Practice1
             Display2(ref name, ref name);
             System.Console.WriteLine(name);
         }
+        //public void Display()
+        //{
+        //    Display2(ref name, ref name);
+        //    System.Console.WriteLine(name);
+        //}
 
         private void Display2(ref string x, ref string y)
         {
