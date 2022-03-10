@@ -28,11 +28,11 @@ namespace ConsoleApp.Practice1
         private void Display3(ref string x, ref string y)
         {
             System.Console.WriteLine(name);
-            x = "Akhil 1";
+            x = "sssssssssssssss";
             System.Console.WriteLine(name);
-            y = "Akhil 4";
+            y = "sssssssssssss";
             System.Console.WriteLine(name);
-            name = "gggggggggg";
+            name = "sssssssss";
         }
     }
 }
