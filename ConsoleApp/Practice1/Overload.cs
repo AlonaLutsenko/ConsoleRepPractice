@@ -25,5 +25,14 @@ namespace ConsoleApp.Practice1
             System.Console.WriteLine(name);
             name = "Akhil 3";
         }
+        private void Display3(ref string x, ref string y)
+        {
+            System.Console.WriteLine(name);
+            x = "Akhil 1";
+            System.Console.WriteLine(name);
+            y = "Akhil 2";
+            System.Console.WriteLine(name);
+            name = "Akhil 3";
+        }
     }
 }
