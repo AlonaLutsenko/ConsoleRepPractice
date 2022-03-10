@@ -26,9 +26,9 @@ namespace ConsoleApp.Practice1
             System.Console.WriteLine(name);
             x = "Akhil 1";
             System.Console.WriteLine(name);
-            y = "Akhil 2";
+            y = "Akhil 4";
             System.Console.WriteLine(name);
-            name = "Akhil 3";
+            name = "gggggggggg";
         }
     }
 }
