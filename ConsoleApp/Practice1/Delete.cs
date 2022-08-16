@@ -8,5 +8,8 @@ namespace ConsoleApp.Practice1
 {
     internal class Delete
     {
+        //jjjjjjjjjjjjjj
+        //kkkkkkkkkkkkkk
+        //llllllllllll
     }
 }
